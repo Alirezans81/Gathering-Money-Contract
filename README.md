@@ -5,8 +5,10 @@ Gathering money is a project that helps people find and help each other to make 
 Gathering money has two type of user:
 </b></h4>
 <small>
-1- consultant: the people who have information and intelligence in investing on diffrent types of financial markets and investing opportunities.<br />
-2- invester: the people who have big amount of money and want to invest on something and increase their assets. But they can't or don't want to find good opportunities, they need someone to tell them what should they do to their money.
+<ul>
+<li>consultant: the people who have information and intelligence in investing on diffrent types of financial markets and investing opportunities.</li><br />
+<li>invester: the people who have big amount of money and want to invest on something and increase their assets. But they can't or don't want to find good opportunities, they need someone to tell them what should they do to their money.</li>
+<ul>
 </small>
 <br />
 <br />
@@ -15,6 +17,5 @@ To make conultants to have the responsibility about thier invester they need to 
 </b></h4>
 <ul>
 <li>Then if their suggestion ends up making money, They'd get a percent of the investers profit by minting the coin.</li>
-<br />
 <li>If their suggestion ends up losing money, A percent of their staked tokens would get burned</li>
 </ul>
