@@ -6,7 +6,7 @@ Gathering money has two type of user:
 </b></h4>
 <small>
 <ol>
-<li>consultant: the people who have information and intelligence in investing on diffrent types of financial markets and investing opportunities.</li><br />
+<li>consultant: the people who have information and intelligence in investing on diffrent types of financial markets and investing opportunities.</li>
 <li>invester: the people who have big amount of money and want to invest on something and increase their assets. But they can't or don't want to find good opportunities, they need someone to tell them what should they do to their money.</li>
 </ol>
 </small>
