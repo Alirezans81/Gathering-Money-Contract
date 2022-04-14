@@ -5,7 +5,6 @@ Gathering money is a project that helps people find and help each other to make 
 Gathering money has two type of user:
 </h3>
 <br />
-<br />
 1- consultant: the people who have information and intelligence in investing on diffrent types of financial markets and investing opportunities.<br />
 2- invester: the people who have big amount of money and want to invest on something and increase their assets. But they can't or don't want to find good opportunities, they need someone to tell them what should they do to their money.
 <br />
