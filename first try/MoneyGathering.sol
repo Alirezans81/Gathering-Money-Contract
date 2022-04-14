@@ -3,7 +3,7 @@ pragma solidity >=0.5.0;
 import "./SafeMath.sol";
 import "./TheToken.sol";
 
-contract MoneyGathering is TheToken {
+contract MoneyGathering {
 
     using SafeMath for uint256;
     using SafeMath32 for uint32;
