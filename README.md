@@ -1,8 +1,9 @@
 # Gathering-Money-Contract
 
-
+<h4>
 Gathering money is a project that helps people find and help each other to make money. The users belive that there's a space for all the people and we can make together.
 Gathering money has two type of user:
+</h4>
 <br />
 <br />
 1- consultant: the people who have information and intelligence in investing on diffrent types of financial markets and investing opportunities.<br />
