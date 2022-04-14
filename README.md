@@ -1,5 +1,6 @@
 # Gathering-Money-Contract
 
+
 Gathering money is a project that helps people find and help each other to make money. The users belive that there's a space for all the people and we can make together.
 Gathering money has two type of user:
 <br />
@@ -9,4 +10,3 @@ Gathering money has two type of user:
 <br />
 <br />
 To make conultants to have the responsibility about thier invester they need to stake some coin in the platform.<br />
-<h1>hello</h1>
