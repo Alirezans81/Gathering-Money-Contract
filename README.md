@@ -13,6 +13,8 @@ Gathering money has two type of user:
 <h4><b>
 To make conultants to have the responsibility about thier invester they need to stake some coin in the platform:
 </b></h4>
-Then if their suggestion ends up making money, They'd get a percent of the investers profit by minting the coin.
+<ul>
+<li>Then if their suggestion ends up making money, They'd get a percent of the investers profit by minting the coin.</li>
 <br />
-If their suggestion ends up losing money, A percent of their staked tokens would get burned
+<li>If their suggestion ends up losing money, A percent of their staked tokens would get burned</li>
+</ul>
